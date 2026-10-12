@@ -1,0 +1,15 @@
+venv/
+dataset/
+*.pt
+*.pth
+runs/
+__pycache__/
+node_modules/
+
+venv/
+
+__pycache__/
+
+*.pyc
+
+.e*v

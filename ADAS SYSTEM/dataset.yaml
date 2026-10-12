@@ -1,0 +1,12 @@
+# Mặc định khi giải nén trên Colab, thư mục sẽ nằm ở /content/
+path: /content/dataset_final/yolo 
+
+train: images/train
+val: images/val
+
+nc: 4
+names:
+  0: traffic_sign
+  1: car
+  2: motorbike
+  3: person
